@@ -9,7 +9,7 @@ Projektet syftade till att återskapa ett flygplan av typen Boeing 737-800 i Aut
 <!-- Collage med resterande bilder -->
 <table>
   <tr>
-    <td><img src="images/CAD-Projekt_Bild3.jpg" width="250"/></td>
+    <td><img src="images/CAD-Projekt_Bild9.jpg" width="250"/></td>
     <td><img src="images/CAD-Projekt_Bild6.jpg" width="250"/></td>
     <td><img src="images/CAD-Projekt_Bild11.jpg" width="250"/></td>
   </tr>
@@ -20,7 +20,7 @@ Projektet syftade till att återskapa ett flygplan av typen Boeing 737-800 i Aut
   </tr>
   <tr>
     <td><img src="images/CAD-Projekt_Bild8.jpg" width="250"/></td>
-    <td><img src="images/CAD-Projekt_Bild9.jpg" width="250"/></td>
+    <td><img src="images/CAD-Projekt_Bild3.jpg" width="250"/></td>
     <td><img src="images/CAD-Projekt_Bild1.jpg" width="250"/></td>
   </tr>
 
